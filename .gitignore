@@ -2,5 +2,6 @@ venv/
 __pycache__/
 *.pyc
 .env
+chromadb/
 .chroma/
-data/chroma/
+1m1b.pdf
